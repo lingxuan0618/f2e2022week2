@@ -8,8 +8,8 @@
       <div>
         <ul class="progressBlock d-flex justify-content-between list-unstyled mt-25 py-4 text-white"
         style="width:50vw">
-          <li>建立簽名檔</li>
           <li>上傳文件</li>
+          <li>建立簽名檔</li>
           <li>簽署文件</li>
         </ul>
       </div>
